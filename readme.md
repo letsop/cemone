@@ -12,7 +12,7 @@ In that case
 
 - download the content of https://github.com/letsop/cemone
 - install Anaconda 3 https://www.anaconda.com/download
-- lauch Anaconda 
+- launch Anaconda 
 - in Anaconda-navigator launch Jupyter notebook
 - navigate to the folder containing cemone files
 

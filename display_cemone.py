@@ -55,18 +55,18 @@ Tmin=10
 t = np.arange(Tmin, Tmax, 0.1)
 gamma_0 = 1
 gamma_1 = 1
-t_gamma= 14.65
-s_gamma=2.53
-beta_0 = 0.9
-beta_1 = 0.9
+t_gamma= 14.73
+s_gamma=3.21
+beta_0 = 1.
+beta_1 = 1.
 t_beta= 14.
 s_beta=1.
 kapmax=40.
-kap0=6.29
-tp0=11.55
-sp0=1.09
-tm0=16.65
-sm0=6.3
+kap0=7.95
+tp0=11.87
+sp0=1.47
+tm0=17.05
+sm0=8.09
 
 #Display gamma,beta and F_AP curves with default parameter values
 (a0,b0,c0,d0)=(gamma_0,s_gamma,t_gamma,gamma_1)

@@ -9,7 +9,6 @@ dependencies:
   - anaconda-navigator=1.9.7
   - anaconda-project=0.8.3
   - appnope=0.1.0
-  - appscript=1.1.0
   - asn1crypto=0.24.0
   - astroid=2.2.5
   - astropy=3.2.1

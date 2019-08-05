@@ -1,7 +1,13 @@
-name: base
+name: 
 channels:
-  - defaults
+- conda-forge
+- defaults
+- conda-forge/label/broken
 dependencies:
+  - python
   - numpy
-  - math
-  - matplotlib
+  - pip
+  - pip:
+    - matplotlib
+    - math
+    

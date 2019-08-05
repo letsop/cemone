@@ -9,5 +9,5 @@ dependencies:
   - pip
   - pip:
     - matplotlib
-    - math
+
     
